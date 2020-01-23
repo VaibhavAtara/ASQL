@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312056832952",
+    "firebase_url": "https://vaavhomes.firebaseio.com",
+    "project_id": "vaavhomes",
+    "storage_bucket": "vaavhomes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312056832952:android:cdce0b9c870aa018cde54d",
+        "android_client_info": {
+          "package_name": "com.example.asql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312056832952-kki1cpiohtt3g6anpsnqi5018u8s5jt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asql",
+            "certificate_hash": "31b8a17a10e5dc6a2c4abb16d2af6bd028962aee"
+          }
+        },
+        {
+          "client_id": "312056832952-pcpn1s7v26e3i8un8ja6h80oiu31r7fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7yK56_CLbHW1BUJH9rmC0idkcg99Uuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312056832952-pcpn1s7v26e3i8un8ja6h80oiu31r7fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
